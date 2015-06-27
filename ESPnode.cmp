@@ -1,0 +1,101 @@
+Cmp-Mod V01 Created by PcbNew date = 27/06/2015 8:03:28 PM
+
+BeginCmp
+TimeStamp = /558D5C3E;
+Reference = C1;
+ValeurCmp = 1uF;
+IdModule  = SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /558D5C79;
+Reference = C2;
+ValeurCmp = 10uF 6.3V A TANT;
+IdModule  = SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /54EEE7FA;
+Reference = P1;
+ValeurCmp = ESP-01;
+IdModule  = ESP-01;
+EndCmp
+
+BeginCmp
+TimeStamp = /558D5E92;
+Reference = P2;
+ValeurCmp = TXRX;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /558E5C4B;
+Reference = P3;
+ValeurCmp = PWR;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /558E5C8A;
+Reference = P4;
+ValeurCmp = GPIO;
+IdModule  = PIN_ARRAY_4x1_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = /558D3629;
+Reference = Q1;
+ValeurCmp = BSS138DW;
+IdModule  = SOT363;
+EndCmp
+
+BeginCmp
+TimeStamp = /54EDD918;
+Reference = R1;
+ValeurCmp = 10K;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /558D51FB;
+Reference = R2;
+ValeurCmp = 10K;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /558D37D2;
+Reference = R3;
+ValeurCmp = 10K;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /558D51EC;
+Reference = R4;
+ValeurCmp = 10K;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /558D375A;
+Reference = R5;
+ValeurCmp = 10K;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /54EDD8EB;
+Reference = SW1;
+ValeurCmp = RESET;
+IdModule  = 1107G;
+EndCmp
+
+BeginCmp
+TimeStamp = /558D64A3;
+Reference = U1;
+ValeurCmp = LD1117;
+IdModule  = SOT223;
+EndCmp
+
+EndListe
