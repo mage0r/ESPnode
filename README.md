@@ -9,6 +9,8 @@ You'll need another device to program your ESP-01.  Might I suggest https://gith
 
 ![Board Layout](Photos/v1.3.png?raw=true "design")
 
+![Board Layout](Photos/2015-07-22 20.01.55.jpg?raw=true "physical.")
+
 CREDITS
 ------------
 
